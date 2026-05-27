@@ -1,0 +1,11 @@
+{
+  "relays": [
+    {
+      "source_channel_id": "1066375854478856252",
+      "target_webhooks": [
+        "https://discord.com/api/webhooks/1508941010699419742/2PYsl5QTIGLfPRg4PQOKv-4D2XV1e7GLK3HELUClSTDKHtDK9tcx_CXK9WngcYP7ng-x"
+      ],
+      "ping_role_id": "1507511498480550031"
+    }
+  ]
+}
